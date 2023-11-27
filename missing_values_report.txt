@@ -1,19 +1,19 @@
 Column,Missing Values
-operatingCycle,4386
 cashConversionCycle,4386
+operatingCycle,4386
 shortTermCoverageRatios,1926
 10Y Shareholders Equity Growth (per Share),1695
-dividendPayoutRatio,1658
 priceEarningsToGrowthRatio,1658
+dividendPayoutRatio,1658
 10Y Net Income Growth (per Share),1653
 10Y Revenue Growth (per Share),1653
 10Y Operating CF Growth (per Share),1646
 10Y Dividend per Share Growth (per Share),1582
 nIperEBT,1561
-niperEBT,1561
 effectiveTaxRate,1561
-ebtperEBIT,1441
+niperEBT,1561
 eBTperEBIT,1441
+ebtperEBIT,1441
 priceCashFlowRatio,1256
 enterpriseValueMultiple,1225
 freeCashFlowOperatingCashFlowRatio,1160
@@ -21,12 +21,12 @@ returnOnAssets,1106
 Return on Tangible Assets,1106
 Current ratio,1105
 Working Capital,1103
-returnOnCapitalEmployed,1102
 ROIC,1102
+returnOnCapitalEmployed,1102
 Total non-current liabilities,1043
 Total non-current assets,1041
-cashFlowCoverageRatios,885
 cashFlowToDebtRatio,885
+cashFlowCoverageRatios,885
 5Y Shareholders Equity Growth (per Share),883
 5Y Revenue Growth (per Share),849
 5Y Net Income Growth (per Share),849
@@ -37,18 +37,18 @@ EV to Free cash flow,846
 Enterprise Value,844
 5Y Operating CF Growth (per Share),841
 Graham Number,832
-priceBookValueRatio,830
 priceToBookRatio,830
+priceBookValueRatio,830
 PB ratio,830
 PTB ratio,830
 5Y Dividend per Share Growth (per Share),708
 capitalExpenditureCoverageRatios,568
 Net Cash/Marketcap,498
-Payables Turnover,478
 payablesTurnover,478
+Payables Turnover,478
+POCF ratio,461
 priceToOperatingCashFlowsRatio,461
 Free Cash Flow Yield,461
-POCF ratio,461
 priceFairValue,460
 priceSalesRatio,452
 Graham Net-Net,448
@@ -61,13 +61,13 @@ companyEquityMultiplier,438
 Market Cap,428
 dividendpaidAndCapexCoverageRatios,415
 Net Debt to EBITDA,379
-operatingProfitMargin,347
-eBITperRevenue,347
-ebitperRevenue,347
 operatingCashFlowSalesRatio,347
+ebitperRevenue,347
 grossProfitMargin,347
-netProfitMargin,347
+operatingProfitMargin,347
 pretaxProfitMargin,347
+eBITperRevenue,347
+netProfitMargin,347
 3Y Dividend per Share Growth (per Share),325
 EBITDA Margin,308
 Profit Margin,306
@@ -76,74 +76,74 @@ Book Value per Share Growth,271
 Debt Growth,264
 Free Cash Flow growth,263
 Dividends per Share Growth,263
-R&D Expense Growth,259
 dividendYield,259
+R&D Expense Growth,259
 Net Income per Share,257
-returnOnEquity,256
 payoutRatio,256
-ROE,256
 Payout Ratio,256
 Stock-based compensation to Revenue,256
 Revenue per Share,256
+returnOnEquity,256
+ROE,256
 priceToSalesRatio,255
 Price to Sales Ratio,255
-Free Cash Flow margin,254
 Net Debt,254
-PFCF ratio,253
+Free Cash Flow margin,254
 priceToFreeCashFlowsRatio,253
-priceEarningsRatio,252
-freeCashFlowPerShare,252
+PFCF ratio,253
+Book Value per Share,252
+Tangible Book Value per Share,252
+Free Cash Flow per Share,252
 PE ratio,252
 Earnings Yield,252
 Invested Capital,252
-Tangible Book Value per Share,252
-Book Value per Share,252
-Free Cash Flow per Share,252
-Shareholders Equity per Share,251
-currentRatio,251
-debtRatio,251
-Operating Cash Flow per Share,251
-debtEquityRatio,251
-Capex per Share,251
-operatingCashFlowPerShare,251
-Dividend Yield,251
-Cash per Share,251
-cashPerShare,251
-Debt to Assets,251
+priceEarningsRatio,252
+freeCashFlowPerShare,252
 Interest Debt per Share,251
+Capex per Share,251
+cashPerShare,251
+debtEquityRatio,251
+debtRatio,251
 Debt to Equity,251
-Net Income - Discontinued ops,250
-Dividend per Share,250
-Net Income - Non-Controlling int,250
+Dividend Yield,251
+Operating Cash Flow per Share,251
+operatingCashFlowPerShare,251
+currentRatio,251
+Debt to Assets,251
+Shareholders Equity per Share,251
+Cash per Share,251
 Preferred Dividends,250
-quickRatio,249
+Net Income - Discontinued ops,250
+Net Income - Non-Controlling int,250
+Dividend per Share,250
 cashRatio,249
+quickRatio,249
 R&D to Revenue,248
+Deposit Liabilities,248
 EBIT Growth,248
 SG&A Expenses Growth,248
-Deposit Liabilities,248
 Dividend payments,247
-interestCoverage,246
-Intangibles to Total Assets,246
 Tangible Asset Value,246
+Intangibles to Total Assets,246
 Interest Coverage,246
+interestCoverage,246
 Net Current Asset Value,244
 Inventory Turnover,239
 inventoryTurnover,239
 SG&A to Revenue,238
 R&D Expenses,237
+Income Quality,236
+Capex to Depreciation,236
 daysOfSalesOutstanding,236
 Days of Inventory on Hand,236
-Capex to Depreciation,236
-Income Quality,236
 Days Payables Outstanding,234
-Capex to Revenue,234
 daysOfPayablesOutstanding,234
+Capex to Revenue,234
 Average Inventory,233
 Inventory Growth,232
 Average Payables,231
-Net Income Growth,230
 assetTurnover,230
+Net Income Growth,230
 Capex to Operating Cash Flow,228
 longtermDebtToCapitalization,227
 Issuance (buybacks) of shares,219
@@ -152,9 +152,9 @@ Asset Growth,214
 Short-term debt,214
 Tax assets,212
 Deferred revenue,210
+totalDebtToCapitalization,209
 Investments,209
 Tax Liabilities,209
-totalDebtToCapitalization,209
 Other Assets,208
 Weighted Average Shs Out (Dil),200
 Inventories,197
@@ -170,8 +170,8 @@ Long-term investments,181
 Short-term investments,179
 Net Profit Margin,176
 Issuance (repayment) of debt,175
-EBIT Margin,174
 Payables,174
+EBIT Margin,174
 Effect of forex changes on cash,174
 "Property, Plant & Equipment Net",169
 Total debt,168
@@ -195,11 +195,11 @@ EPS Growth,131
 Days Sales Outstanding,129
 Total liabilities,127
 Investing Cash flow,126
-Gross Profit Growth,125
-Average Receivables,125
 EPS Diluted Growth,125
-Total shareholders equity,124
+Average Receivables,125
+Gross Profit Growth,125
 Receivables growth,124
+Total shareholders equity,124
 Cash and short-term investments,119
 Net Income Com,117
 Operating Income Growth,109
@@ -210,8 +210,8 @@ EPS,65
 Gross Profit,64
 EPS Diluted,63
 Operating Cash Flow,58
-Earnings Before Tax Margin,51
 Gross Margin,51
+Earnings Before Tax Margin,51
 Cash and cash equivalents,49
 Revenue,46
 Receivables,38
@@ -220,7 +220,6 @@ Long-term debt,30
 Net cash flow / Change in cash,24
 Retained earnings (deficit),21
 Financing Cash Flow,19
-2019 PRICE VAR [%],0
-Unnamed: 0,0
 Sector,0
+2019 PRICE VAR [%],0
 Class,0
