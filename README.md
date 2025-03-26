@@ -1,6 +1,6 @@
 # AC209a Project: Predicting Price Variation of Stocks with Various Financial Indicators
 
-To view the project work, open the jupyter notebook.
+To view the project work, open the [jupyter notebook](https://github.com/hamzehbhamdan/AC209a-Project/blob/main/financial_indicators_project.ipynb).
 
 ## Project Summary
 
